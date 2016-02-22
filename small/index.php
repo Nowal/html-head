@@ -10,9 +10,9 @@
      <!-- Website's description -->
      <title>JavaScript | Learning</title>
      <!-- Website's links -->
-     <link rel="stylesheet" href="stylesheet/style.css" type="text/css">
-     <link rel="shortcut icon" href="web-gallery/favicon.ico" type="image/x-icon">
-     <script type="text/javascript" src="scripts/script.js"></script>
+     <link rel="stylesheet" href="" type="text/css">
+     <link rel="shortcut icon" href="" type="image/x-icon">
+     <script type="text/javascript" src=""></script>
    </head>
 
    <body>

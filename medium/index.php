@@ -9,23 +9,21 @@
      <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
      <!-- Website's description -->
      <title>JavaScript | Learning</title>
-     <meta name="author" content="Nowal">
-     <meta name="description" content="My mini-website for ...">
-     <meta name="keywords" content="javascript,js,code,php,html,css,fun">
-     <meta name="robots" content="noopd,noydir">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
      <!-- Website's links -->
-     <link rel="stylesheet" href="stylesheet/style.css" type="text/css">
-     <link rel="shortcut icon" href="web-gallery/favicon.ico" type="image/x-icon">
-     <script type="text/javascript" src="scripts/script.js"></script>
+     <link rel="stylesheet" href="" type="text/css">
+     <link rel="shortcut icon" href="" type="image/x-icon">
+     <script type="text/javascript" src=""></script>
      <!-- Social networks cards -->
-     <meta property="og:title" content="JavaScript | Learning">
-     <meta property="og:description" content="My mini-website ">
-     <meta property="og:url" content="http://mywebsite.com">
-     <meta property="og:image" content="web-gallery/og/image.png">
+     <meta property="og:title" content="">
+     <meta property="og:description" content="">
+     <meta property="og:url" content="">
+     <meta property="og:image" content="">
      <meta property="twitter:card" content="summary">
-     <meta property="twitter:site" content="@itsNowal">
-     <meta property="twitter:title" content="JavaScript | Learning">
-     <meta property="twitter:description" content="My mini-website :-)">
+     <meta property="twitter:site" content="@">
+     <meta property="twitter:title" content="">
+     <meta property="twitter:description" content="">
    </head>
 
    <body>
